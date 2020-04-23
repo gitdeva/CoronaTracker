@@ -22,3 +22,13 @@ tr:hover {background-color: #ddd;}
   font-size: 11px;
   background-color: antiquewhite
   }
+
+.country {
+  width: 80px;
+  height: 80px;
+  background-color: #ab0389;
+  margin: 15px;
+  float: left;
+  color: white;
+  padding: 10px
+}
